@@ -1,0 +1,8 @@
+PREFIX astatus: <https://linked.data.gov.au/def/reg-statuses/>
+PREFIX reg: <http://purl.org/linked-data/registry#>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+
+<https://example.com/vocab/4> a skos:ConceptScheme ;
+    skos:prefLabel "Vocab 4"@en ;
+    reg:status astatus:submitted ;
+.
