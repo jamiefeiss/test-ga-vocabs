@@ -23,7 +23,7 @@ cs: a skos:ConceptScheme ;
     skos:historyNote "https://pid.geoscience.gov.au/dataset/ga/122551"@en ;
     skos:prefLabel "Vocab 3"@en ;
     skos:hasTopConcept :c1 ;
-    reg:status astatus:retired ;
+    reg:status astatus:submitted ;
 .
 
 <https://linked.data.gov.au/org/ga> a sdo:Organization ;
