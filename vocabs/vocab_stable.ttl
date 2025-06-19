@@ -10,7 +10,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     dcterms:creator <https://linked.data.gov.au/org/ga> ;
     dcterms:modified "2023-04-06"^^xsd:date ;
     dcterms:publisher <https://linked.data.gov.au/org/ga> ;
-    ns1:status <https://linked.data.gov.au/def/reg-statuses/stable> ;
+    ns1:status <https://linked.data.gov.au/def/reg-statuses/retired> ;
     skos:definition "Definition for Vocab 2"@en ;
     skos:hasTopConcept <https://example.com/vocab/2/c1> ;
     skos:historyNote "https://pid.geoscience.gov.au/dataset/ga/122551"@en ;
